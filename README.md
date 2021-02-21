@@ -3,3 +3,4 @@ Electroencephalo-gram(EEG) signals provide us with a way to quantify changes in 
 
 The idea of the code comes from https://www.researchgate.net/publication/337978538_Emotional_Recognition_Based_on_EEG_Signals_Comparing_Long-term_and_Short-_term_Memory_with_Gated_Recurrent_Unit_Using_Batch_Normalization
 
+![image](https://github.com/dafei2017/Emotion-Recognition-of-EEG-Signals-Based-on-LSTM-and-GRU/blob/readme-edits/basic_lstm_cell.png)
