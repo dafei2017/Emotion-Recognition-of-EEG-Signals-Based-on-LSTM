@@ -5,4 +5,4 @@ The idea of the code comes from https://www.researchgate.net/publication/3379785
 
 ![image](https://github.com/dafei2017/Emotion-Recognition-of-EEG-Signals-Based-on-LSTM-and-GRU/blob/readme-edits/basic_lstm_cell.png)
 
-![image](https://github.com/dafei2017/Emotion-Recognition-of-EEG-Signals-Based-on-LSTM-and-GRU/blob/readme-edits/basic_lstm_cell.png)
+![image](https://github.com/dafei2017/Emotion-Recognition-of-EEG-Signals-Based-on-LSTM-and-GRU/blob/readme-edits/output_layer.rnn.png)
