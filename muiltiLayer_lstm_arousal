@@ -126,8 +126,7 @@ def RNN_LSTM(x, Weights, biases):
     _init_state = mlstm_cell.zero_state(batch_size, dtype=tf.float32)
     # dynamic_rnn 运行网络
     outputs, states = tf.nn.dynamic_rnn(mlstm_cell, x, initial_state=_init_state, dtype=tf.float32, time_major=False)
-    #加入batch nomaliztion来减少过拟合
-    #outputs = tf.layers.batch_normalization(outputs, training=True)
+   
     # 输出
     #return tf.matmul(outputs[:,-1,:], Weights) + biases
     return tf.nn.softmax(tf.matmul(outputs[:,-1,:], Weights) + biases)
